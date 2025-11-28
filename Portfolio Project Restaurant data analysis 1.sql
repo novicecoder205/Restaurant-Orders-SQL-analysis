@@ -6,3 +6,20 @@ SELECT * FROM menu_items;
 
 # 2: Find the number of items on the menu?
 SELECT COUNT(*) FROM menu_items;
+
+# 3: What are the least and most expensive items on the menu?
+SELECT * FROM menu_items
+ORDER BY price;
+
+SELECT * FROM menu_items
+ORDER BY price DESC;
+
+# 4: How many Italians dishes are on the menu?
+SELECT COUNT(*) FROM menu_items
+WHERE category = 'Italian';
+
+# 5. What are the least and most expensive italian dishes on the men?
+SELECT *
+FROM menu_items
+WHERE category = 'Italian'
+ORDER BY price;
