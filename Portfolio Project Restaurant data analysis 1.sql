@@ -33,3 +33,8 @@ ORDER BY price DESC;
 SELECT category, COUNT(menu_item_id) AS num_dishes
 FROM menu_items
 GROUP BY category;
+
+# 7. What is the average dish price within each catgory?
+SELECT category, AVG(price) AS avg_price
+FROM menu_items
+GROUP BY category;
