@@ -13,8 +13,6 @@ I had been ask to research into the customer data to see which of the menu items
 In this project, the main goal are:
 To.
 
-# How to run:
-<br>
 
 # Project Highlights:
 <br>
