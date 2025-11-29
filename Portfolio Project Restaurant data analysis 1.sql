@@ -23,3 +23,13 @@ SELECT *
 FROM menu_items
 WHERE category = 'Italian'
 ORDER BY price;
+
+SELECT *
+FROM menu_items
+WHERE category = 'Italian'
+ORDER BY price DESC;
+
+# 6. How many dishes are in each categories:
+SELECT category, COUNT(menu_item_id) AS num_dishes
+FROM menu_items
+GROUP BY category;
