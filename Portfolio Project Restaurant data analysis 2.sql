@@ -3,6 +3,9 @@ SELECT * FROM order_details;
 -- 2. What is the date range of the table?
 SELECT * FROM order_details
 ORDER BY order_date;
+
+SELECT MIN(order_date), MAX(order_date) FROM order_details;
+
 -- 3. How many orders were made within this date range?
 
 -- 4. How many items were ordered within this date range?
