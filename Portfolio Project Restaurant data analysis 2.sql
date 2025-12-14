@@ -13,5 +13,11 @@ SELECT COUNT(*) FROM order_details;
 -- 5. Which orders had the most number of items?
 SELECT order_id, COUNT(item_id) AS num_items
 FROM order_details
-GROUP by order_id;
+GROUP by order_id
+ORDER BY num_items DESC;
 -- 6. How many orders had more than 12 items?
+SELECT COUNT(*) FROM
+(SELECT order_id, COUNT(item_id) AS num_items
+FROM order_details
+GROUP by order_id
+HAVING num_items > 12) AS num_orders;
