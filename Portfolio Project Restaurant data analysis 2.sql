@@ -1,4 +1,4 @@
-### Objective 2: Explore the Order Table:
+### Task 2: Explore the Order Table:
 -- 1. View the Order_details table:
 SELECT * FROM order_details;
 -- 2. What is the date range of the table?
