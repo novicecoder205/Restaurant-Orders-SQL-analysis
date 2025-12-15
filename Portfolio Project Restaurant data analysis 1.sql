@@ -1,4 +1,4 @@
-### Objective 1: Explore the Items Tabe:
+### Objective 1: Explore the Items Table:
 USE restaurant_db;
 
 # 1: View the menu_items table:
