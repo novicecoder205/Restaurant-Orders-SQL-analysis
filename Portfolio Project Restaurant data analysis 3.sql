@@ -32,3 +32,8 @@ GROUP BY category;
 
 -- 5. Views the details of the tops 5 highest spend order. 
 
+SELECT order_id, category, COUNT(item_id) AS num_items
+FROM order_details od LEFT JOIN menu_items mi
+     ON od.item_id = mi.menu_item_id
+WHERE order_id IN (440, 2075, 1957, 330, 2675)
+GROUP BY order_id, category;
