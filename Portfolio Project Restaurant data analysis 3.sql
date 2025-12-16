@@ -24,6 +24,11 @@ ORDER BY total_spend DESC
 LIMIT 5;
 
 -- 4. View the details of the highest spend order, and gather insights from results
+SELECT category, COUNT(item_id) AS num_items
+FROM order_details od LEFT JOIN menu_items mi
+     ON od.item_id = mi.menu_item_id
+WHERE order_id = 440
+GROUP BY category;
 
 -- 5. Views the details of the tops 5 highest spend order. 
 
