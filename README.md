@@ -66,7 +66,7 @@ In this project, the main goal are:
 
 <img width="531" height="282" alt="image" src="https://github.com/user-attachments/assets/bc7ee16e-d37b-4aea-846c-78dd8dc8dae8" />
 
-. From the result we can see that the Averages prices of the Italian option is $16.75
+. From the result we can see that the Averages prices of the Italian option is $16.75.
 
 
 
