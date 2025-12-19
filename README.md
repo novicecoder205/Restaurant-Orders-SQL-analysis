@@ -9,32 +9,41 @@ I had been ask to research into the customer data to see which of the menu items
 # About the Project:
 <br>
 
-<img width="214" height="115" alt="image" src="https://github.com/user-attachments/assets/b0d4a607-9daa-4b80-9c87-2f549ea0f3fc" />
+The data folder for this project include two excels files, two tables: "menu_items" and "order_details". 
 
-. There are two tables, two excel files that come with this data, and we will be analyzing both of them.
+<img width="206" height="112" alt="image" src="https://github.com/user-attachments/assets/cffce980-67fb-46e4-9681-23aeb4885b0a" />
 
-<img width="613" height="33" alt="image" src="https://github.com/user-attachments/assets/bd0a117f-a09d-4f25-9089-fa65682c5d15" />
+In order to analyzes the database, I will be:
 
-. I dedicates one tab to analyzes the "menu_items" tables, and another for "order_details".
+1. Analyzes each tables seperately.
 
-# Project Highlights:
-<br>
+2. Joints the two tables, in order to add the results and finding of both table.
+
+# About the tables:
+
+***menu_items*** havve 4 columns:
+
+. menu_item_id.
+
+. item_name.
+
+. category.
+
+. price.
+
+***order_details*** have 5 columns:
+
+. order_details_id.
+
+. order_id.
+
+. order_date.
+
+. order_time.
+
+. item_id. 
 
 
-# Key Findings:
-<br>
-
-. In order to extract useful information from the customer data, to see which menu items are doing well, which are not, and what the tops customer like the best.
-
-. The primary goals is splits into three task
 
 
 
-
-
-
-# Skills Utilized:
-<br>
-
-# Conclusion:
-<br>
