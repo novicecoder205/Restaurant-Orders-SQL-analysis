@@ -21,7 +21,7 @@ In order to analyzes the database, I will be:
 
 # About the tables:
 
-***menu_items*** havve 4 columns:
+***menu_items*** have 4 columns:
 
 . menu_item_id.
 
@@ -42,6 +42,19 @@ In order to analyzes the database, I will be:
 . order_time.
 
 . item_id. 
+
+The project is then split into 3 part:
+
+***Part 1: Exploring the Items Table.***
+
+. View the menu_items table and write a query to find the number of items on the menu.
+
+. What are the least and most expensive items on the menu?
+
+. How many Italian dishes are on the menu? What are the least and most expensives Italian dishes on the menu?
+
+. How many dishes are in each category? What is the average dish price within each category?
+
 
 
 
