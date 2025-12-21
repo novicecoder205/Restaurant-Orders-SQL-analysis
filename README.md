@@ -70,6 +70,17 @@ In order to analyzes the database, I will be:
 
 . How many orders had more than 12 items?
 
+***Part 3: Analyze Customer Behaviors.***
+
+. Combine menu_items and order_details tables into a single table.
+
+. What were the least and most ordered items? what categories were they in?
+
+. What were the top 5 orders that spent the most money?
+
+. View the details of the highest spend order. What insights can we gather from the results?
+
+. View the details of the top 5 highest spend order, see what insight can be gathers there. 
 
 
 
