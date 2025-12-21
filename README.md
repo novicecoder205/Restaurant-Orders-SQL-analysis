@@ -43,7 +43,11 @@ In order to analyzes the database, I will be:
 
 . item_id. 
 
-The project is then split into 3 part:
+# Objective:
+
+. In order to analyze the data, both tables will be analyze seperately, each tables analyzes goals is too answer a sets of question, derives from the main questions listed aboves, then combining the two table, where columns indicates the same items, like ID for example, and another set of questions derives from the main goals will be analyze to finds the answers.
+
+# Results:
 
 ***Part 1: Exploring the Items Table.***
 
@@ -54,6 +58,18 @@ The project is then split into 3 part:
 . How many Italian dishes are on the menu? What are the least and most expensives Italian dishes on the menu?
 
 . How many dishes are in each category? What is the average dish price within each category?
+
+
+***Part 2: Exploring the Orders Table.***
+
+. View the order_details table. What is the date range of the table?
+
+. How many orders were made within this date range? How many items were ordered within this date range?
+
+. Which orders had the most number of items?
+
+. How many orders had more than 12 items?
+
 
 
 
