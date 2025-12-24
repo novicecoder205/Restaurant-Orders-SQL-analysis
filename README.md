@@ -53,7 +53,30 @@ In order to analyzes the database, I will be:
 
 . View the menu_items table and write a query to find the number of items on the menu.
 
+<img width="358" height="618" alt="image" src="https://github.com/user-attachments/assets/c5d40d59-db84-4e1d-8b46-8752b6d335f5" />
+
+### Image 1: Print out all items.
+
+<img width="401" height="167" alt="image" src="https://github.com/user-attachments/assets/0bbdf780-423d-4528-a491-4e99d14ff336" />
+
+### Image 2: Print out the numbers of items in the table. 
+
+. Viewing the menu_items tables, and then search for the numbers of item on the menu, in general.
+
 . What are the least and most expensive items on the menu?
+
+<img width="355" height="231" alt="image" src="https://github.com/user-attachments/assets/3a02bdf9-d773-4b39-a7cc-a65546ea900c" />
+
+### Image 3: Most expensive items on the menu:
+
+. It's seem that Shrimp scampi is the most expensives items in the table.
+
+<img width="565" height="206" alt="image" src="https://github.com/user-attachments/assets/46575276-b71c-432f-a81e-cb8b159665bb" />
+
+### Image 4: The least expensive items on the menu:
+
+. Edamame seem to be the least expensive items. 
+
 
 . How many Italian dishes are on the menu? What are the least and most expensives Italian dishes on the menu?
 
