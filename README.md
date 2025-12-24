@@ -80,6 +80,11 @@ In order to analyzes the database, I will be:
 
 . How many Italian dishes are on the menu? What are the least and most expensives Italian dishes on the menu?
 
+<img width="447" height="190" alt="image" src="https://github.com/user-attachments/assets/799aa233-7f90-4d2c-aef8-07570fc0c605" />
+
+### There are 9 Italian dish on the menu. 
+
+
 . How many dishes are in each category? What is the average dish price within each category?
 
 
