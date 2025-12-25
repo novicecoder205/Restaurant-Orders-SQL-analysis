@@ -52,15 +52,20 @@ In order to analyzes the database, I will be:
 ***Part 1: Exploring the Items Table.***
 
 . Question 1: View the menu_items table and write a query to find the number of items on the menu.
-. Answer: Print out all items.
+
+. Answer: Print out all items, and the number of items on the table.
 
 <img width="358" height="618" alt="image" src="https://github.com/user-attachments/assets/c5d40d59-db84-4e1d-8b46-8752b6d335f5" />
 
+<br>
+
+. Question 2: Viewing the menu_items tables, and then search for the numbers of item on the menu, in general.
+
+. Answer: The number of items in the table is 23.
+
 <img width="401" height="167" alt="image" src="https://github.com/user-attachments/assets/0bbdf780-423d-4528-a491-4e99d14ff336" />
 
-### Image 2: Print out the numbers of items in the table. 
-
-. Viewing the menu_items tables, and then search for the numbers of item on the menu, in general.
+<br>
 
 . What are the least and most expensive items on the menu?
 
