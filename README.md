@@ -98,9 +98,21 @@ Answer: The average dishes price from each category/cultures is the following.
 
 ##### Question 1: Access order_details table and find the date range of the table?
 
+Anser: The tables start at 01/01/2023 to 31/03/2023.
+
+<img width="262" height="44" alt="image" src="https://github.com/user-attachments/assets/7836f820-f7ad-48e4-9d52-003197b6065e" />
+
 ##### Question 2: Find how many orders were made within this date range? 
 
+Answer: There were 5370 items in total made within that timeframe.
+
+<img width="202" height="55" alt="image" src="https://github.com/user-attachments/assets/ce05f7fc-f9b6-4811-babd-4af60e9c02c1" />
+
 ##### Question 3: How many items were ordered within this date range?
+
+Answer: From 01/01 to 31/03, 12234 item were ordered.
+
+<img width="112" height="65" alt="image" src="https://github.com/user-attachments/assets/0b626e36-9dd0-4619-8461-844b9abedabe" />
 
 ##### Question 4: Which orders had the most number of items?
 
