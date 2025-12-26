@@ -55,11 +55,32 @@ In order to analyzes the database, I will be:
 
 Question 1: Find the total number of items on the menu.
 
+Answer: The total amount of items existing in this table is 32.
+
+<img width="415" height="161" alt="image" src="https://github.com/user-attachments/assets/69ecb790-cfd2-46e1-ad25-fd71062cd2d0" />
+
+
 Question 2: Find the most expensive and least expensive items on the menu. 
+
+Answer: The least expensive item on the menu appear to be Edamame, from the Asian category, with the price of $5, and the most expensive item is Shrimp Scampi, from Italian category, with the price of $19.95.
+
+<img width="355" height="191" alt="image" src="https://github.com/user-attachments/assets/105a57c9-faff-440b-ad78-44b8091b4fb7" />
+
+<img width="361" height="163" alt="image" src="https://github.com/user-attachments/assets/93cd3e07-c5b2-4716-b322-e7f7f9d1d97e" />
 
 Question 3: How many dishes belong to every culture.
 
+Answer: There are 4 unique items in the category section representing 4 cultures which dishes the restaurant serves are from American, Asian, Mexican, Italian.
+
+<img width="455" height="230" alt="image" src="https://github.com/user-attachments/assets/d5db2089-ff41-4a66-b004-7152996b76f2" />
+
 Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
+
+Answer: There are 9 Italian Dishes, the least expensive seem to be Spaghetti at $14.50 and the most expensive being Shrimp Scampi at $19.95.
+
+<img width="444" height="178" alt="image" src="https://github.com/user-attachments/assets/366ff0bb-2428-4b45-bf97-394bc11f1531" />
+
+<img width="360" height="340" alt="image" src="https://github.com/user-attachments/assets/6c9ce854-8202-463c-bc94-a6702451347e" />
 
 Question 5: How many dishes are in each category?
 
