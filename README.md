@@ -51,45 +51,17 @@ In order to analyzes the database, I will be:
 
 ***Part 1: Exploring the Items Table.***
 
-. Question 1: View the menu_items table and write a query to find the number of items on the menu.
+Question 1: Find the total number of items on the menu.
 
-. Answer: Print out all items, and the number of items on the table.
+Question 2: Find the most expensive and least expensive items on the menu. 
 
-<img width="358" height="618" alt="image" src="https://github.com/user-attachments/assets/c5d40d59-db84-4e1d-8b46-8752b6d335f5" />
+Question 3: How many dishes belong to every culture.
 
-<br>
+Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
 
-. Question 2: Viewing the menu_items tables, and then search for the numbers of item on the menu, in general.
+Question 5: How many dishes are in each category?
 
-. Answer: The number of items in the table is 23.
-
-<img width="401" height="167" alt="image" src="https://github.com/user-attachments/assets/0bbdf780-423d-4528-a491-4e99d14ff336" />
-
-<br>
-
-. What are the least and most expensive items on the menu?
-
-<img width="355" height="231" alt="image" src="https://github.com/user-attachments/assets/3a02bdf9-d773-4b39-a7cc-a65546ea900c" />
-
-### Image 3: Most expensive items on the menu:
-
-. It's seem that Shrimp scampi is the most expensives items in the table.
-
-<img width="565" height="206" alt="image" src="https://github.com/user-attachments/assets/46575276-b71c-432f-a81e-cb8b159665bb" />
-
-### Image 4: The least expensive items on the menu:
-
-. Edamame seem to be the least expensive items. 
-
-
-. How many Italian dishes are on the menu? What are the least and most expensives Italian dishes on the menu?
-
-<img width="447" height="190" alt="image" src="https://github.com/user-attachments/assets/799aa233-7f90-4d2c-aef8-07570fc0c605" />
-
-### There are 9 Italian dish on the menu. 
-
-
-. How many dishes are in each category? What is the average dish price within each category?
+Question 6: Find the average dish price within each category?
 
 
 ***Part 2: Exploring the Orders Table.***
