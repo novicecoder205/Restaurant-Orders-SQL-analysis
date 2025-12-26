@@ -53,14 +53,14 @@ In order to analyzes the database, I will be:
 
 ***Part 1: Exploring the Items Table.***
 
-Question 1: Find the total number of items on the menu.
+##### Question 1: Find the total number of items on the menu.
 
 Answer: The total amount of items existing in this table is 32.
 
 <img width="415" height="161" alt="image" src="https://github.com/user-attachments/assets/69ecb790-cfd2-46e1-ad25-fd71062cd2d0" />
 
 
-Question 2: Find the most expensive and least expensive items on the menu. 
+##### Question 2: Find the most expensive and least expensive items on the menu. 
 
 Answer: The least expensive item on the menu appear to be Edamame, from the Asian category, with the price of $5, and the most expensive item is Shrimp Scampi, from Italian category, with the price of $19.95.
 
@@ -68,13 +68,13 @@ Answer: The least expensive item on the menu appear to be Edamame, from the Asia
 
 <img width="361" height="163" alt="image" src="https://github.com/user-attachments/assets/93cd3e07-c5b2-4716-b322-e7f7f9d1d97e" />
 
-Question 3: How many dishes belong to every culture.
+##### Question 3: How many dishes belong to every culture.
 
 Answer: There are 4 unique items in the category section representing 4 cultures which dishes the restaurant serves are from American, Asian, Mexican, Italian.
 
 <img width="455" height="230" alt="image" src="https://github.com/user-attachments/assets/d5db2089-ff41-4a66-b004-7152996b76f2" />
 
-Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
+##### Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
 
 Answer: There are 9 Italian Dishes, the least expensive seem to be Spaghetti at $14.50 and the most expensive being Shrimp Scampi at $19.95.
 
@@ -82,34 +82,41 @@ Answer: There are 9 Italian Dishes, the least expensive seem to be Spaghetti at 
 
 <img width="360" height="340" alt="image" src="https://github.com/user-attachments/assets/6c9ce854-8202-463c-bc94-a6702451347e" />
 
-Question 5: How many dishes are in each category?
+##### Question 5: How many dishes are in each category?
 
-Question 6: Find the average dish price within each category?
+Answer: There are 6 items from American cultures, 8 from Asian, 9 from Mexican and 9 from Italian.
 
+<img width="476" height="247" alt="image" src="https://github.com/user-attachments/assets/acd48af7-b824-457d-9286-a66fb5187fa7" />
+
+##### Question 6: Find the average dish price within each category?
+
+Answer: The average dishes price from each category/cultures is the following.
+
+<img width="169" height="100" alt="image" src="https://github.com/user-attachments/assets/0ae06b46-d66e-47ca-8afb-c3901696b730" />
 
 ***Part 2: Exploring the Orders Table.***
 
-Question 1: Access order_details table and find the date range of the table?
+##### Question 1: Access order_details table and find the date range of the table?
 
-Question 2: Find how many orders were made within this date range? 
+##### Question 2: Find how many orders were made within this date range? 
 
-Question 3: How many items were ordered within this date range?
+##### Question 3: How many items were ordered within this date range?
 
-Question 4: Which orders had the most number of items?
+##### Question 4: Which orders had the most number of items?
 
-Question 5: How many orders had more than 12 items?
+##### Question 5: How many orders had more than 12 items?
 
 ***Part 3: Analyze Customer Behaviors.***
 
 After the menu_items and order_details tables were combine:
 
-Question 1: Find the least and most ordered items? what categories were they in?
+##### Question 1: Find the least and most ordered items? what categories were they in?
 
-Question 2: Find the top 5 orders that spent the most money?
+##### Question 2: Find the top 5 orders that spent the most money?
 
-Question 3: View the details of the highest spend order. What insights can we gather from the results?
+##### Question 3: View the details of the highest spend order. What insights can we gather from the results?
 
-Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
+##### Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
 
 
 
