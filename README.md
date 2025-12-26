@@ -2,9 +2,11 @@
 
 # Introduction: 
 <br>
-As a data analyst, I was hires the TitleWave Hoian Restaurant, a restaurant locates in the Old Town, Hoian that serves a diverse arrays of menus offerings from multiples cultures, to suits the needs of many guests and tourist.
-But the company that own the restaurant is looking to cuts down on menu dishes, as not every meny were doing well.
-I had been ask to research into the customer data to see which of the menu items from the Italian portion that are doing well, which are not, and what the top customers seem to like the best.
+As a data analyst, I was hired by the Title-Wave Hoi An Restaurant, a dining establishment located in Hoi An Old Town. The restaurant offers a diverse range of menu items inspired by multiple international cuisines to cater to both local and international tourists.
+
+The company that owns the restaurant is currently looking to streamline its menu, as not all dishes are performing well. Management is particularly interested in evaluating the Italian menu options, which are popular among both Vietnamese and international guests.
+
+I was tasked with analyzing customer and sales data to determine which Italian menu items are performing well, which are underperforming, and to identify customer preferences—specifically, which dishes are most favored by the restaurant’s top customers
 
 # About the Project:
 <br>
