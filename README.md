@@ -47,7 +47,7 @@ In order to analyzes the database, I will be:
 
 . In order to analyze the data, both tables will be analyze seperately, each tables analyzes goals is too answer a sets of question, derives from the main questions listed aboves, then combining the two table, where columns indicates the same items, like ID for example, and another set of questions derives from the main goals will be analyze to finds the answers.
 
-# Results:
+# Analysis Result:
 
 ***Part 1: Exploring the Items Table.***
 
