@@ -78,15 +78,15 @@ Question 5: How many orders had more than 12 items?
 
 ***Part 3: Analyze Customer Behaviors.***
 
-. Combine menu_items and order_details tables into a single table.
+After the menu_items and order_details tables were combine:
 
-. What were the least and most ordered items? what categories were they in?
+Question 1: Find the least and most ordered items? what categories were they in?
 
-. What were the top 5 orders that spent the most money?
+Question 2: Find the top 5 orders that spent the most money?
 
-. View the details of the highest spend order. What insights can we gather from the results?
+Question 3: View the details of the highest spend order. What insights can we gather from the results?
 
-. View the details of the top 5 highest spend order, see what insight can be gathers there. 
+Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
 
 
 
