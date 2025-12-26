@@ -66,13 +66,15 @@ Question 6: Find the average dish price within each category?
 
 ***Part 2: Exploring the Orders Table.***
 
-. View the order_details table. What is the date range of the table?
+Question 1: Access order_details table and find the date range of the table?
 
-. How many orders were made within this date range? How many items were ordered within this date range?
+Question 2: Find how many orders were made within this date range? 
 
-. Which orders had the most number of items?
+Question 3: How many items were ordered within this date range?
 
-. How many orders had more than 12 items?
+Question 4: Which orders had the most number of items?
+
+Question 5: How many orders had more than 12 items?
 
 ***Part 3: Analyze Customer Behaviors.***
 
