@@ -2,79 +2,96 @@
 
 # Introduction: 
 <br>
-As a data analyst, I was hires the TitleWave Hoian Restaurant, a restaurant locates in the Old Town, Hoian that serves a diverse arrays of menus offerings from multiples cultures, to suits the needs of many guests and tourist.
-But the company that own the restaurant is looking to cuts down on menu dishes, as not every meny were doing well.
-I had been ask to research into the customer data to see which of the menu items from the Italian portion that are doing well, which are not, and what the top customers seem to like the best.
+As a data analyst, I was hired by the Title-Wave Hoi An Restaurant, a dining establishment located in Hoi An Old Town. The restaurant offers a diverse range of menu items inspired by multiple international cuisines to cater to both local and international tourists.
+
+The company that owns the restaurant is currently looking to streamline its menu, as not all dishes are performing well. Management is particularly interested in evaluating the Italian menu options, which are popular among both Vietnamese and international guests.
+
+I was tasked with analyzing customer and sales data to determine which Italian menu items are performing well, which are underperforming, and to identify customer preferences—specifically, which dishes are most favored by the restaurant’s top customers
 
 # About the Project:
 <br>
 
-In this project, the main goal are:
+The data folder for this project include two excels files, two tables: "menu_items" and "order_details". 
 
-. Find out how many items is in the menu, Least and most expensives. 
+<img width="206" height="112" alt="image" src="https://github.com/user-attachments/assets/cffce980-67fb-46e4-9681-23aeb4885b0a" />
 
-. How many italian items, and least to most expensive italian dishes.
+In order to analyzes the database, I will be:
 
-. How many dishes are in each categories, and average dish prices within each category.
+1. Analyzes each tables seperately.
 
-# Project Highlights:
-<br>
+2. Joints the two tables, in order to add the results and finding of both table.
 
+# About the tables:
 
-# Key Findings:
-<br>
+***menu_items*** have 4 columns:
 
-### Question 1: Total items in the menu/the most to least expensive:
+. menu_item_id.
 
-<img width="422" height="154" alt="image" src="https://github.com/user-attachments/assets/28b4dc22-10e4-4249-98df-d469673fe953" />
+. item_name.
 
-. There are 32 items in the menu.
+. category.
 
-### Question 2: Least and Most Expensive items on the menu:
+. price.
 
-<img width="575" height="469" alt="image" src="https://github.com/user-attachments/assets/944d1962-60f1-450e-a947-0673e04f3d36" />
+***order_details*** have 5 columns:
 
-. This is the results of the least expensive items on the menu, which seem to belong to the Asian category, the item is Edamame, and it's price is $5.
+. order_details_id.
 
-<img width="375" height="380" alt="image" src="https://github.com/user-attachments/assets/ee59e41e-02b3-43bb-8fb9-298e5047ee74" />
+. order_id.
 
-. This is the results of the most expensive item on the menu, which seem to belong to the Italian category, the item is Shrimp Scampi, and it's price is $19,95. 
+. order_date.
 
-### Question 3: How many Italians dishes are on the menu?
+. order_time.
 
-<img width="452" height="177" alt="image" src="https://github.com/user-attachments/assets/edc25946-c208-4f4f-b202-654c02d4e42b" />
+. item_id. 
 
-. There are 9 items in the Italian category.
+# Objective:
 
-### Question 4: Least and Most expensive Italian dishes on the menu?
+. In order to analyze the data, both tables will be analyze seperately, each tables analyzes goals is too answer a sets of question, derives from the main questions listed aboves, then combining the two table, where columns indicates the same items, like ID for example, and another set of questions derives from the main goals will be analyze to finds the answers.
 
-<img width="636" height="386" alt="image" src="https://github.com/user-attachments/assets/f9568da4-a8c7-41df-b387-fd096f6d5a03" />
+# Analysis Result:
 
-. From the results, the least expensive Italian items at this restaurant is Spaghetti and Fettuccine Alfredo, both are $14.50. 
+***Part 1: Exploring the Items Table.***
 
-<img width="367" height="368" alt="image" src="https://github.com/user-attachments/assets/3a290639-1643-4572-98d7-aca9ac6fbb4e" />
+Question 1: Find the total number of items on the menu.
 
-. Alternatively, the most expensive items in the Italian menu is Shrimp Scampi, with the price of $19.95. 
+Question 2: Find the most expensive and least expensive items on the menu. 
 
-### Question 5: All dishes in each categories:
+Question 3: How many dishes belong to every culture.
 
-<img width="499" height="272" alt="image" src="https://github.com/user-attachments/assets/9a686ab6-a80a-450f-9121-7e697ec8fc49" />
+Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
 
-. We see that there are 4 categories in the menu, the total of dishes items coming from American are 6, Asian provides 8, Mexican provide 9 and same goes for Italian at 9 dishes.
+Question 5: How many dishes are in each category?
 
-### Question 6: What is the average dish price within each category?
-
-<img width="531" height="282" alt="image" src="https://github.com/user-attachments/assets/bc7ee16e-d37b-4aea-846c-78dd8dc8dae8" />
-
-. From the result we can see that the Averages prices of the Italian option is $16.75
+Question 6: Find the average dish price within each category?
 
 
+***Part 2: Exploring the Orders Table.***
+
+Question 1: Access order_details table and find the date range of the table?
+
+Question 2: Find how many orders were made within this date range? 
+
+Question 3: How many items were ordered within this date range?
+
+Question 4: Which orders had the most number of items?
+
+Question 5: How many orders had more than 12 items?
+
+***Part 3: Analyze Customer Behaviors.***
+
+After the menu_items and order_details tables were combine:
+
+Question 1: Find the least and most ordered items? what categories were they in?
+
+Question 2: Find the top 5 orders that spent the most money?
+
+Question 3: View the details of the highest spend order. What insights can we gather from the results?
+
+Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
 
 
 
 
-# Skills Utilized:
-<br>
 
-# Conclusion:
-<br>
+
