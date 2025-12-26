@@ -1,10 +1,9 @@
 ### Task 2: Explore the Order Table:
 -- 1. View the Order_details table:
 SELECT * FROM order_details;
--- 2. What is the date range of the table?
+-- 2. Access order_details table and find the date range of the table?
 SELECT * FROM order_details
 ORDER BY order_date;
-
 SELECT MIN(order_date), MAX(order_date) FROM order_details;
 
 -- 3. How many orders were made within this date range?
