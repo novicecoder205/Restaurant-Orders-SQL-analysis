@@ -116,6 +116,10 @@ Answer: From 01/01 to 31/03, 12234 item were ordered.
 
 ##### Question 4: Which orders had the most number of items?
 
+Answer: The orders ID with the most item purchase is the following.
+
+<img width="165" height="226" alt="image" src="https://github.com/user-attachments/assets/f074f7c1-be5b-47b2-a6a1-7f241f67a397" />
+
 ##### Question 5: How many orders had more than 12 items?
 
 ***Part 3: Analyze Customer Behaviors.***
