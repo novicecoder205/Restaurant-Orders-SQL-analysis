@@ -122,6 +122,11 @@ Answer: The orders ID with the most item purchase is the following.
 
 ##### Question 5: How many orders had more than 12 items?
 
+Answer: There are 20 orders with more than 12 items.
+
+<img width="116" height="46" alt="image" src="https://github.com/user-attachments/assets/2d4aea51-4aaf-4427-b8c4-92eb55b557d9" />
+
+
 ***Part 3: Analyze Customer Behaviors.***
 
 After the menu_items and order_details tables were combine:
