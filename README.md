@@ -135,17 +135,27 @@ After the menu_items and order_details tables were combine:
 
 Answer: The most order item is Hamburger, which belong to the American category, while the least order item is Chicken Tacos, belonging to the Mexican category.
 
-<img width="332" height="224" alt="image" src="https://github.com/user-attachments/assets/2328f560-03a9-4ceb-acb9-d8946605c712" />
+<img width="331" height="250" alt="image" src="https://github.com/user-attachments/assets/1a582742-ac25-4779-ac68-952d569a956a" />
 
-<img width="314" height="18" alt="image" src="https://github.com/user-attachments/assets/a3727cf4-1cee-40fe-b98c-03dc7f01b811" />
+<img width="322" height="223" alt="image" src="https://github.com/user-attachments/assets/c56f9b36-098e-4d09-9d23-0c3c239e056c" />
 
 ##### Question 2: Find the top 5 orders that spent the most money?
 
+Answer: This is the tops 5 order ID that spent the most money, with order id 440 spending the total of $192.15 dollar. 
+
+<img width="183" height="117" alt="image" src="https://github.com/user-attachments/assets/0c0f8e69-f030-4008-afd6-7a44b742fd98" />
+
 ##### Question 3: View the details of the highest spend order. What insights can we gather from the results?
+
+Answer: Viewing the order that 440's Users order, it's seem that, she or he orders Italian dish the most.
+
+<img width="189" height="133" alt="image" src="https://github.com/user-attachments/assets/d30cf6a2-1cce-4635-9e93-49a14c0d7fef" />
 
 ##### Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
 
+Answer: Here are the list of category which the top 5 spender orders, and results indicate Asian and italian cultures dishes are the most orderes of all the option. 
 
+<img width="262" height="261" alt="image" src="https://github.com/user-attachments/assets/89a961fc-114f-406f-8614-fd95a2f43e7c" />
 
 
 
