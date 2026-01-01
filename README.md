@@ -53,44 +53,109 @@ In order to analyzes the database, I will be:
 
 ***Part 1: Exploring the Items Table.***
 
-Question 1: Find the total number of items on the menu.
+##### Question 1: Find the total number of items on the menu.
 
-Question 2: Find the most expensive and least expensive items on the menu. 
+Answer: The total amount of items existing in this table is 32.
 
-Question 3: How many dishes belong to every culture.
+<img width="415" height="161" alt="image" src="https://github.com/user-attachments/assets/69ecb790-cfd2-46e1-ad25-fd71062cd2d0" />
 
-Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
 
-Question 5: How many dishes are in each category?
+##### Question 2: Find the most expensive and least expensive items on the menu. 
 
-Question 6: Find the average dish price within each category?
+Answer: The least expensive item on the menu appear to be Edamame, from the Asian category, with the price of $5, and the most expensive item is Shrimp Scampi, from Italian category, with the price of $19.95.
 
+<img width="355" height="191" alt="image" src="https://github.com/user-attachments/assets/105a57c9-faff-440b-ad78-44b8091b4fb7" />
+
+<img width="361" height="163" alt="image" src="https://github.com/user-attachments/assets/93cd3e07-c5b2-4716-b322-e7f7f9d1d97e" />
+
+##### Question 3: How many dishes belong to every culture.
+
+Answer: There are 4 unique items in the category section representing 4 cultures which dishes the restaurant serves are from American, Asian, Mexican, Italian.
+
+<img width="455" height="230" alt="image" src="https://github.com/user-attachments/assets/d5db2089-ff41-4a66-b004-7152996b76f2" />
+
+##### Question 4: Focus on Italian dishes, what are the least and most expensive on the menu?
+
+Answer: There are 9 Italian Dishes, the least expensive seem to be Spaghetti at $14.50 and the most expensive being Shrimp Scampi at $19.95.
+
+<img width="444" height="178" alt="image" src="https://github.com/user-attachments/assets/366ff0bb-2428-4b45-bf97-394bc11f1531" />
+
+<img width="360" height="340" alt="image" src="https://github.com/user-attachments/assets/6c9ce854-8202-463c-bc94-a6702451347e" />
+
+##### Question 5: How many dishes are in each category?
+
+Answer: There are 6 items from American cultures, 8 from Asian, 9 from Mexican and 9 from Italian.
+
+<img width="476" height="247" alt="image" src="https://github.com/user-attachments/assets/acd48af7-b824-457d-9286-a66fb5187fa7" />
+
+##### Question 6: Find the average dish price within each category?
+
+Answer: The average dishes price from each category/cultures is the following.
+
+<img width="169" height="100" alt="image" src="https://github.com/user-attachments/assets/0ae06b46-d66e-47ca-8afb-c3901696b730" />
 
 ***Part 2: Exploring the Orders Table.***
 
-Question 1: Access order_details table and find the date range of the table?
+##### Question 1: Access order_details table and find the date range of the table?
 
-Question 2: Find how many orders were made within this date range? 
+Anser: The tables start at 01/01/2023 to 31/03/2023.
 
-Question 3: How many items were ordered within this date range?
+<img width="262" height="44" alt="image" src="https://github.com/user-attachments/assets/7836f820-f7ad-48e4-9d52-003197b6065e" />
 
-Question 4: Which orders had the most number of items?
+##### Question 2: Find how many orders were made within this date range? 
 
-Question 5: How many orders had more than 12 items?
+Answer: There were 5370 items in total made within that timeframe.
+
+<img width="202" height="55" alt="image" src="https://github.com/user-attachments/assets/ce05f7fc-f9b6-4811-babd-4af60e9c02c1" />
+
+##### Question 3: How many items were ordered within this date range?
+
+Answer: From 01/01 to 31/03, 12234 item were ordered.
+
+<img width="112" height="65" alt="image" src="https://github.com/user-attachments/assets/0b626e36-9dd0-4619-8461-844b9abedabe" />
+
+##### Question 4: Which orders had the most number of items?
+
+Answer: The orders ID with the most item purchase is the following.
+
+<img width="165" height="226" alt="image" src="https://github.com/user-attachments/assets/f074f7c1-be5b-47b2-a6a1-7f241f67a397" />
+
+##### Question 5: How many orders had more than 12 items?
+
+Answer: There are 20 orders with more than 12 items.
+
+<img width="116" height="46" alt="image" src="https://github.com/user-attachments/assets/2d4aea51-4aaf-4427-b8c4-92eb55b557d9" />
+
 
 ***Part 3: Analyze Customer Behaviors.***
 
 After the menu_items and order_details tables were combine:
 
-Question 1: Find the least and most ordered items? what categories were they in?
+##### Question 1: Find the least and most ordered items? what categories were they in?
 
-Question 2: Find the top 5 orders that spent the most money?
+Answer: The most order item is Hamburger, which belong to the American category, while the least order item is Chicken Tacos, belonging to the Mexican category.
 
-Question 3: View the details of the highest spend order. What insights can we gather from the results?
+<img width="331" height="250" alt="image" src="https://github.com/user-attachments/assets/1a582742-ac25-4779-ac68-952d569a956a" />
 
-Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
+<img width="322" height="223" alt="image" src="https://github.com/user-attachments/assets/c56f9b36-098e-4d09-9d23-0c3c239e056c" />
 
+##### Question 2: Find the top 5 orders that spent the most money?
 
+Answer: This is the tops 5 order ID that spent the most money, with order id 440 spending the total of $192.15 dollar. 
+
+<img width="183" height="117" alt="image" src="https://github.com/user-attachments/assets/0c0f8e69-f030-4008-afd6-7a44b742fd98" />
+
+##### Question 3: View the details of the highest spend order. What insights can we gather from the results?
+
+Answer: Viewing the order that 440's Users order, it's seem that, she or he orders Italian dish the most.
+
+<img width="189" height="133" alt="image" src="https://github.com/user-attachments/assets/d30cf6a2-1cce-4635-9e93-49a14c0d7fef" />
+
+##### Question 4: View the details of the top 5 highest spend order, see what insight can be gathers there. 
+
+Answer: Here are the list of category which the top 5 spender orders, and results indicate Asian and italian cultures dishes are the most orderes of all the option. 
+
+<img width="262" height="261" alt="image" src="https://github.com/user-attachments/assets/89a961fc-114f-406f-8614-fd95a2f43e7c" />
 
 
 
