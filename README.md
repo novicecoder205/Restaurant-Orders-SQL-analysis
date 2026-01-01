@@ -133,6 +133,12 @@ After the menu_items and order_details tables were combine:
 
 ##### Question 1: Find the least and most ordered items? what categories were they in?
 
+Answer: The most order item is Hamburger, which belong to the American category, while the least order item is Chicken Tacos, belonging to the Mexican category.
+
+<img width="332" height="224" alt="image" src="https://github.com/user-attachments/assets/2328f560-03a9-4ceb-acb9-d8946605c712" />
+
+<img width="314" height="18" alt="image" src="https://github.com/user-attachments/assets/a3727cf4-1cee-40fe-b98c-03dc7f01b811" />
+
 ##### Question 2: Find the top 5 orders that spent the most money?
 
 ##### Question 3: View the details of the highest spend order. What insights can we gather from the results?
