@@ -1,5 +1,5 @@
 # Project title: "Restaurant Operation Analysis."
-
+Data Analysis using MySQL to explores the dataset provides by a TitleWave Hoian Cafe, a restaurant that has a diverse offerings menu from many cultures, this profit seek to explore the data to see which menu item are doing well and which are not doing well, and what the top customers seem to like best, as requires by the restaurant.
 # Introduction: 
 <br>
 As a data analyst, I was hired by the Title-Wave Hoi An Restaurant, a dining establishment located in Hoi An Old Town. The restaurant offers a diverse range of menu items inspired by multiple international cuisines to cater to both local and international tourists.
